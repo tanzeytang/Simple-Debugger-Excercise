@@ -1,0 +1,35 @@
+A short introduction about the debuger of browser:
+
+1. option + command + j: go to debuger console
+2. option + command + i: go to the debuger element inspect
+
+let's do a easy game to learn how to use the debuger:
+1. open your google chrome or other browsers:
+2. visit the google.com home page by type the:"www.google.com" in 
+your browser address input:
+
+
+3. option + command + i to check the element
+
+4. open the baidu.com in a new window page:
+
+5. the same short command to open the debuger
+
+6. now quickly right click the element for example the 
+"google logo" by select "inspect the element" to quickly
+address the source code in element window of debuger.
+
+7. then you can check what source they use, and exchange 
+their pictures and other source in the debuger, or change
+the style setting in the debuger, by enter your changes,
+the debuger will auto display the new visulizations for
+you.
+
+8. debuger is very useful for front end developer, 
+you need to use it.
+
+9. if the source code doesn't show you the real 
+absolute links for resources that you need, you 
+can find the related source links in network window under
+the debuger.
+
